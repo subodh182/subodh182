@@ -48,7 +48,7 @@ I'm a passionate **BTech student in Computer Science and Engineering** at **Inve
 ## 📫 Contact Me  
 - 📧 **Email:** [subodhsin7720@gmail.com](mailto:subodhsin7720@gmail.com)  
 - 🌐 **GitHub:** [github.com/subodhsingh](https://github.com/subodh182/subodh182)  
-- 💼 **LinkedIn:** [linkedin.com/in/subodhsingh](https://www.linkedin.com/in/subodh-singh-0751082b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 **LinkedIn:** [linkedin.com/in/subodhsingh](https://www.linkedin.com/in/subodh-singh-0751082b2/)
 
 ---
 
@@ -56,3 +56,4 @@ I'm a passionate **BTech student in Computer Science and Engineering** at **Inve
 An engineer’s journey is not just about solving problems but about crafting solutions that inspire and improve lives!  
 
 Feel free to reach out for collaborations, ideas, or opportunities! 😊  
+
