@@ -1,7 +1,7 @@
 # Subodh Singh's Portfolio  
 
 👋 **Hi, I’m Subodh Singh!**  
-I'm a passionate **BTech student in Computer Science and Engineering** at **Invertis University, Bareilly**. My current focus lies in **Machine Learning**, **Ethical Hacking**, and **Cybersecurity**, and I'm dedicated to creating innovative solutions that enhance system security and usability.  
+I'm a passionate **BTech student in Computer Science and Engineering** at **Invertis University, Bareilly**. My current focus lies in **Machine Learning**, **Python Developer**, and **Web Development**, and I'm dedicated to creating innovative solutions that enhance system security and usability.  
 
 ---
 
@@ -18,9 +18,9 @@ I'm a passionate **BTech student in Computer Science and Engineering** at **Inve
     - Beginner in Flutter  
     - Python-based Assistants  
 - 🔒 **Interests:**  
-  - Ethical Hacking  
-  - Securing systems  
-  - Preventing vulnerabilities  
+  - Python Developer  
+  - Web Developer  
+  - Machine Learning  
 
 ---
 
@@ -40,13 +40,13 @@ I'm a passionate **BTech student in Computer Science and Engineering** at **Inve
 ---
 
 ## 🛠 Certifications & Achievements  
-- Certified in Cybersecurity Fundamentals *(Details Coming Soon)*  
+- IBM python Certificate3  
 - Completed courses in Python programming for development and data analysis.  
 
 ---
 
 ## 📫 Contact Me  
-- 📧 **Email:** [subodhsin7720@gmail.com](mailto:subodhsin7720@gmail.com)  
+- 📧 **Email:** [techshiv1190@gmmail.com](mailto:techshiv1190@gmail.com)  
 - 🌐 **GitHub:** [github.com/subodhsingh](https://github.com/subodh182/subodh182)  
 - 💼 **LinkedIn:** [linkedin.com/in/subodhsingh](https://www.linkedin.com/in/subodh-singh-0751082b2/)
 
