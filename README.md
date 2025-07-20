@@ -1,59 +1,102 @@
-# Subodh Singh's Portfolio  
+<div align="center">
 
-👋 **Hi, I’m Subodh Singh!**  
-I'm a passionate **BTech student in Computer Science and Engineering** at **Invertis University, Bareilly**. My current focus lies in **Machine Learning**, **Python Developer**, and **Web Development**, and I'm dedicated to creating innovative solutions that enhance system security and usability.  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hello World! I'm **Subodh Singh**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+%26+Security+Researcher+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;BTech+Student+%40+Invertis+University+%F0%9F%8E%93;Building+Secure+Digital+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 
-## 🌱 About Me  
-- 🎯 **Currently Learning:**  
-  - Python for Machine Learning  
-  - Cybersecurity techniques and best practices  
-- 💻 **Skills:**  
-  - **Programming Languages:**  
-    - C Programming  
-    - Python  
-    - HTML, CSS, JavaScript  
-  - **Tools & Frameworks:**  
-    - Beginner in Flutter  
-    - Python-based Assistants  
-- 🔒 **Interests:**  
-  - Python Developer  
-  - Web Developer  
-  - Machine Learning  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/180155134?v=4" width="200" alt="Subodh Singh" />
+</p>
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=subodh182&color=00d9ff&style=for-the-badge&label=Profile+Views)](https://github.com/Arya182-ui)
+[![GitHub followers](https://img.shields.io/github/followers/subodh182?logo=GitHub&style=for-the-badge&color=00d9ff)](https://github.com/Arya182-ui)
+[![GitHub Stars](https://img.shields.io/github/stars/subodh182?logo=github&style=for-the-badge&color=00d9ff)](https://github.com/Arya182-ui)
+![Projects](https://img.shields.io/badge/Projects-5%2B-6366f1?style=for-the-badge&logo=github&color=00d9ff)
+</div>
 
 ---
 
-## 📚 Education  
-- **BTech in Computer Science and Engineering**  
-  - **Invertis University, Bareilly**  
-  - **Year:** 2nd Year  
+
+## 🧑‍💻 About Me
+
+🎓 2nd Year **B.Tech CSE** student at **Invertis University, Bareilly**  
+💡 Passionate about building **Python apps**, exploring **Machine Learning**, and enhancing **cybersecurity**  
+🚀 Focused on writing clean code, solving real problems, and always learning something new!  
 
 ---
 
-## 🚀 Projects  
-- **Python-Based Assistant** *(Coming Soon)*  
-  - A smart assistant designed to streamline daily tasks using Python automation.  
-- **Flutter App Development** *(Under Development)*  
-  - Developing a cross-platform application to improve user engagement and simplify everyday solutions.  
+## 📚 Currently Learning
+
+- 🤖 Machine Learning with Python  
+- 🔐 Cybersecurity principles & best practices  
+- 🧱 Clean architecture and modular coding  
 
 ---
 
-## 🛠 Certifications & Achievements  
-- IBM python Certificate3  
-- Completed courses in Python programming for development and data analysis.  
+## 🧰 Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| 💻 Languages | `Python`, `C`, `HTML`, `CSS`, `JavaScript` |
+| 🧪 Frameworks | `Flutter (beginner)`, `Python CLI tools` |
+| 🛠️ Tools | `Git`, `VS Code`, `GitHub` |
+| 🌐 Others | `Linux basics`, `Responsive Design`, `Browser Dev Tools` |
 
 ---
 
-## 📫 Contact Me  
-- 📧 **Email:** [techshiv1190@gmmail.com](mailto:techshiv1190@gmail.com)  
-- 🌐 **GitHub:** [github.com/subodhsingh](https://github.com/subodh182/subodh182)  
-- 💼 **LinkedIn:** [linkedin.com/in/subodhsingh](https://www.linkedin.com/in/subodh-singh-0751082b2/)
+## 🎯 Interests
+
+- 🐍 Python Development  
+- 🌍 Web Development  
+- 📈 Machine Learning  
+- 🔐 Ethical Hacking / Cybersecurity  
 
 ---
 
-## ⚡ Fun Fact  
-An engineer’s journey is not just about solving problems but about crafting solutions that inspire and improve lives!  
+## 🏫 Education
 
-Feel free to reach out for collaborations, ideas, or opportunities! 😊  
+- 🎓 **B.Tech in Computer Science and Engineering**  
+  🏛️ *Invertis University, Bareilly*  
+  📆 *Currently in 2nd Year*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:subodhsin7417@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=Python+Developer;Web+Developer;ML+Explorer;Cybersecurity+Learner;Let’s+build+something+cool!">
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> 💬 I speak fluent Python... and sarcasm.  
+> ☕ Code, caffeine, and curiosity are my fuel.
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+
+
+
+### 🚀 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=subodh182&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=subodh182&layout=compact&theme=dark)
 
