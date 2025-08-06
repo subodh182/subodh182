@@ -74,6 +74,9 @@
   <a href="mailto:subodhsin7417@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="Buy Me A Coffee" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/singh119" />
+  </a>
 </p>
 
 ---
