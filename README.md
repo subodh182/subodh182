@@ -65,10 +65,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/subodh182" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/subodh-singh-0751082b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:subodhsin7417@gmail.com" target="_blank">
