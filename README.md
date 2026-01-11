@@ -21,16 +21,20 @@
 ## 🧑‍💻 About Me
 
 🎓 2nd Year **B.Tech CSE** student at **Invertis University, Bareilly**  
-💡 Passionate about building **Python apps**, exploring **Machine Learning**, and enhancing **cybersecurity**  
+I'm a passionate developer who loves building scalable, secure, and innovative solutions.  
+Currently exploring **Backend Developer**, **Java**, **Web Developer**, and AI-driven applications.  
 🚀 Focused on writing clean code, solving real problems, and always learning something new!  
 
 ---
 
 ## 📚 Currently Learning
 
-- 🤖 Machine Learning with Python  
-- 🔐 Cybersecurity principles & best practices  
-- 🧱 Clean architecture and modular coding  
+- Full Stack Web Development (MERN Stack)
+- Advanced Java & Data Structures
+- JavaScript (ES6+)
+- Backend Development with Node.js
+- Database Management (MySQL & MongoDB)
+- Basics of Machine Learning
 
 ---
 
