@@ -42,19 +42,20 @@ Currently exploring **Backend Developer**, **Java**, **Web Developer**, and AI-d
 
 | Category | Tools |
 |----------|-------|
-| 💻 Languages | `Python`, `C`, `HTML`, `CSS`, `JavaScript` |
+| 💻 Languages | `Java`, `Node.js`, `React.js`, `Python`, `C`, `HTML`, `CSS`, `JavaScript` |
 | 🧪 Frameworks | `Flutter (beginner)`, `Python CLI tools` |
-| 🛠️ Tools | `Git`, `VS Code`, `GitHub` |
+| 🛠️ Tools | `Postman`, `Firebase`, `MySql`, `Git`, `VS Code`, `GitHub` |
 | 🌐 Others | `Linux basics`, `Responsive Design`, `Browser Dev Tools` |
 
 ---
 
 ## 🎯 Interests
 
+- 💻 Full Stack Development
 - 🐍 Python Development  
 - 🌍 Web Development  
 - 📈 Machine Learning  
-- 🔐 Ethical Hacking / Cybersecurity  
+- 🚀 Startup & Tech Innovation  
 
 ---
 
@@ -62,7 +63,7 @@ Currently exploring **Backend Developer**, **Java**, **Web Developer**, and AI-d
 
 - 🎓 **B.Tech in Computer Science and Engineering**  
   🏛️ *Invertis University, Bareilly*  
-  📆 *Currently in 2nd Year*
+  📆 *Currently in 3nd Year*
 
 ---
 
