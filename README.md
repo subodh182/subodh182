@@ -20,12 +20,14 @@
 
 ## 🧑‍💻 About Me
 
-🎓 2nd Year **B.Tech CSE** student at **Invertis University, Bareilly**  
-I'm a passionate developer who loves building scalable, secure, and innovative solutions.  
-Currently exploring **Backend Developer**, **Java**, **Web Developer**, and AI-driven applications.  
-🚀 Focused on writing clean code, solving real problems, and always learning something new!  
+🎓 **3rd Year B.Tech CSE Student** at **Invertis University, Bareilly**  
 
----
+Aspiring software developer with a strong interest in building scalable, secure, and efficient applications.  
+
+Currently developing skills in **Backend Development**, **Java**, **Web Development**, and **AI-driven technologies**.  
+
+🚀 Committed to clean coding practices, problem-solving, and continuous learning to deliver real-world solutions.
+
 
 ## 📚 Currently Learning
 
@@ -94,7 +96,7 @@ Currently exploring **Backend Developer**, **Java**, **Web Developer**, and AI-d
 
 ## ⚡ Fun Fact
 
-> 💬 I speak fluent Python... and sarcasm.  
+> 💬 I speak fluent Java... and sarcasm.  
 > ☕ Code, caffeine, and curiosity are my fuel.
 
 ---
