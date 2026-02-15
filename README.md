@@ -51,7 +51,7 @@ const subodh = {
 - 🔭 Working on full-stack web applications using MERN stack
 - 🌱 Learning advanced Java, Data Structures & Algorithms
 - 👯 Looking to collaborate on open source projects
-- 🎯 2025 Goals: Master system design and cloud technologies
+- 🎯 2026 Goals: Master system design and cloud technologies
 - 📫 Reach me at: **subodhsin7417@gmail.com**
 - ⚡ Fun fact: I can fix bugs faster than I can fix my sleep schedule!
 
@@ -160,7 +160,7 @@ const subodh = {
 
 | Degree | Institution | Duration | Status |
 |--------|------------|----------|--------|
-| **B.Tech in Computer Science & Engineering** | Invertis University, Bareilly | 2022 - 2026 | 🎓 3rd Year (Ongoing) |
+| **B.Tech in Computer Science & Engineering** | Invertis University, Bareilly | 2023 - 2027 | 🎓 3rd Year (Ongoing) |
 
 </div>
 
