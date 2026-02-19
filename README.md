@@ -105,10 +105,10 @@ const subodh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subodh182&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=subodh182&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />  -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=subodh182&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodh182&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodh182&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="48%" /> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subodh182&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" alt="Contribution Graph" width="48%" />
 
 </div>
@@ -253,6 +253,6 @@ const subodh = {
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Feel+free+to+explore+my+repositories+%F0%9F%93%9A;Let's+connect+and+build+something+amazing+together!+%F0%9F%9A%80" />
 
-**© 2025 Subodh Singh. All rights reserved.**
+**© 2024 Subodh Singh. All rights reserved.**
 
 </div>
